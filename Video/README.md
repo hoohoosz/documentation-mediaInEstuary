@@ -1,2 +1,2 @@
 ## Video
-  [Samples](samples.json)
+  [Samples](videos.json)
