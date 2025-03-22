@@ -1,3 +1,3 @@
 # erosion-Estuary
-  + [Video](videos/README.md)
+  + [Video](Video/README.md)
   + [Sound](Sound/README.md)
