@@ -1,21 +1,86 @@
-
 [
-  { "url":"forest/forest1.wav","type":"audio","bank":"forest","n":0},
-  
-  { "url":"trail/trail1.wav","type":"audio","bank":"trail","n":0},
-  { "url":"trail/trail2.wav","type":"audio","bank":"trail","n":1},
-  { "url":"trail/trail3.wav","type":"audio","bank":"trail","n":2},
-  { "url":"trail/trail4.wav","type":"audio","bank":"trail","n":3},
-
-  { "url":"mall/mall1.wav","type":"audio","bank":"mall","n":0},
-  { "url":"mall/mall2.wav","type":"audio","bank":"mall","n":1},
-  { "url":"mall/mall3.wav","type":"audio","bank":"mall","n":2} , 
-  { "url":"mall/mall4.wav","type":"audio","bank":"mall","n":3},
-
-  { "url":"road/road1.wav","type":"audio","bank":"road","n":0},
-  { "url":"road/road2.wav","type":"audio","bank":"road","n":1},
-  { "url":"road/road3.wav","type":"audio","bank":"road","n":2},
-
-  { "url":"pavement/pavement1.wav","type":"audio","bank":"pavement","n":0},
-  { "url":"pavement/pavement2.wav","type":"audio","bank":"pavement","n":1}
+    {
+        "url": "forest/forest1.wav",
+        "type": "audio",
+        "bank": "forest",
+        "n": 0
+    },
+    {
+        "url": "trail/trail1.wav",
+        "type": "audio",
+        "bank": "trail",
+        "n": 0
+    },
+    {
+        "url": "trail/trail2.wav",
+        "type": "audio",
+        "bank": "trail",
+        "n": 1
+    },
+    {
+        "url": "trail/trail3.wav",
+        "type": "audio",
+        "bank": "trail",
+        "n": 2
+    },
+    {
+        "url": "trail/trail4.wav",
+        "type": "audio",
+        "bank": "trail",
+        "n": 3
+    },
+    {
+        "url": "mall/mall1.wav",
+        "type": "audio",
+        "bank": "mall",
+        "n": 0
+    },
+    {
+        "url": "mall/mall2.wav",
+        "type": "audio",
+        "bank": "mall",
+        "n": 1
+    },
+    {
+        "url": "mall/mall3.wav",
+        "type": "audio",
+        "bank": "mall",
+        "n": 2
+    },
+    {
+        "url": "mall/mall4.wav",
+        "type": "audio",
+        "bank": "mall",
+        "n": 3
+    },
+    {
+        "url": "road/road1.wav",
+        "type": "audio",
+        "bank": "road",
+        "n": 0
+    },
+    {
+        "url": "road/road2.wav",
+        "type": "audio",
+        "bank": "road",
+        "n": 1
+    },
+    {
+        "url": "road/road3.wav",
+        "type": "audio",
+        "bank": "road",
+        "n": 2
+    },
+    {
+        "url": "pavement/pavement1.wav",
+        "type": "audio",
+        "bank": "pavement",
+        "n": 0
+    },
+    {
+        "url": "pavement/pavement2.wav",
+        "type": "audio",
+        "bank": "pavement",
+        "n": 1
+    }
 ]
