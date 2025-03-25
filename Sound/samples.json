@@ -163,19 +163,19 @@
     {
         "url": "suburbia/suburbia_1.wav",
         "type": "audio",
-        "bank": "disaster",
+        "bank": "suburbia",
         "n": 0
     },
     {
         "url": "suburbia/suburbia_2.wav",
         "type": "audio",
-        "bank": "disaster",
+        "bank": "suburbia",
         "n": 1
     },
     {
         "url": "suburbia/suburbia_3.wav",
         "type": "audio",
-        "bank": "disaster",
+        "bank": "suburbia",
         "n": 2
     }
    
