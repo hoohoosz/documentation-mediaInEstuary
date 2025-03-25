@@ -1,10 +1,23 @@
 [
     {
-        "url": "forest/forest1.wav",
+        "url": "forest/forest_1.wav",
         "type": "audio",
         "bank": "forest",
         "n": 0
     },
+    {
+        "url": "forest/forest_2.wav",
+        "type": "audio",
+        "bank": "forest",
+        "n": 1
+    },
+    {
+        "url": "forest/forest_3.wav",
+        "type": "audio",
+        "bank": "forest",
+        "n": 2
+    },
+    
     {
         "url": "trail/trail1.wav",
         "type": "audio",
@@ -82,5 +95,88 @@
         "type": "audio",
         "bank": "pavement",
         "n": 1
-    }
+    },
+    
+    {
+        "url": "cootes/cootes1.wav",
+        "type": "audio",
+        "bank": "cootes",
+        "n": 0
+    },
+     {
+        "url": "cootes/cootes2.wav",
+        "type": "audio",
+        "bank": "cootes",
+        "n": 1
+    },
+
+    {
+        "url": "car/car_1.wav",
+        "type": "audio",
+        "bank": "car",
+        "n": 0
+    },
+    {
+        "url": "car/car_2.wav",
+        "type": "audio",
+        "bank": "car",
+        "n": 1
+    },
+
+    {
+        "url": "disaster/disaster_1.wav",
+        "type": "audio",
+        "bank": "disaster",
+        "n": 0
+    },
+      {
+        "url": "disaster/disaster_2.wav",
+        "type": "audio",
+        "bank": "disaster",
+        "n": 1
+    },
+      {
+        "url": "disaster/disaster_3.wav",
+        "type": "audio",
+        "bank": "disaster",
+        "n": 2
+    },
+      {
+        "url": "disaster/disaster_4.wav",
+        "type": "audio",
+        "bank": "disaster",
+        "n": 3
+    },
+      {
+        "url": "disaster/disaster_5.wav",
+        "type": "audio",
+        "bank": "disaster",
+        "n": 4
+    },
+      {
+        "url": "disaster/disaster_6.wav",
+        "type": "audio",
+        "bank": "disaster",
+        "n": 5
+    },
+
+    {
+        "url": "suburbia/suburbia_1.wav",
+        "type": "audio",
+        "bank": "disaster",
+        "n": 0
+    },
+    {
+        "url": "suburbia/suburbia_2.wav",
+        "type": "audio",
+        "bank": "disaster",
+        "n": 1
+    },
+    {
+        "url": "suburbia/suburbia_3.wav",
+        "type": "audio",
+        "bank": "disaster",
+        "n": 2
+    },
+   
 ]
