@@ -42,30 +42,7 @@
         "bank": "trail",
         "n": 3
     },
-    {
-        "url": "mall/mall1.wav",
-        "type": "audio",
-        "bank": "mall",
-        "n": 0
-    },
-    {
-        "url": "mall/mall2.wav",
-        "type": "audio",
-        "bank": "mall",
-        "n": 1
-    },
-    {
-        "url": "mall/mall3.wav",
-        "type": "audio",
-        "bank": "mall",
-        "n": 2
-    },
-    {
-        "url": "mall/mall4.wav",
-        "type": "audio",
-        "bank": "mall",
-        "n": 3
-    },
+   
     {
         "url": "road/road1.wav",
         "type": "audio",
@@ -94,19 +71,6 @@
         "url": "pavement/pavement2.wav",
         "type": "audio",
         "bank": "pavement",
-        "n": 1
-    },
-    
-    {
-        "url": "cootes/cootes1.wav",
-        "type": "audio",
-        "bank": "cootes",
-        "n": 0
-    },
-     {
-        "url": "cootes/cootes2.wav",
-        "type": "audio",
-        "bank": "cootes",
         "n": 1
     },
 
