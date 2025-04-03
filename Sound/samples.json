@@ -1,146 +1,89 @@
 [
-    {
-        "url": "forest/forest_1.wav",
-        "type": "audio",
-        "bank": "forest",
-        "n": 0
-    },
-    {
-        "url": "forest/forest_2.wav",
-        "type": "audio",
-        "bank": "forest",
-        "n": 1
-    },
-    {
-        "url": "forest/forest_3.wav",
-        "type": "audio",
-        "bank": "forest",
-        "n": 2
-    },
-    
-    {
-        "url": "trail/trail1.wav",
-        "type": "audio",
-        "bank": "trail",
-        "n": 0
-    },
-    {
-        "url": "trail/trail2.wav",
-        "type": "audio",
-        "bank": "trail",
-        "n": 1
-    },
-    {
-        "url": "trail/trail3.wav",
-        "type": "audio",
-        "bank": "trail",
-        "n": 2
-    },
-    {
-        "url": "trail/trail4.wav",
-        "type": "audio",
-        "bank": "trail",
-        "n": 3
-    },
-   
-    {
-        "url": "road/road1.wav",
-        "type": "audio",
-        "bank": "road",
-        "n": 0
-    },
-    {
-        "url": "road/road2.wav",
-        "type": "audio",
-        "bank": "road",
-        "n": 1
-    },
-    {
-        "url": "road/road3.wav",
-        "type": "audio",
-        "bank": "road",
-        "n": 2
-    },
-    {
-        "url": "pavement/pavement1.wav",
-        "type": "audio",
-        "bank": "pavement",
-        "n": 0
-    },
-    {
-        "url": "pavement/pavement2.wav",
-        "type": "audio",
-        "bank": "pavement",
-        "n": 1
-    },
-
-    {
+ {
         "url": "car/car_1.wav",
         "type": "audio",
         "bank": "car",
         "n": 0
     },
-    {
+ {
         "url": "car/car_2.wav",
         "type": "audio",
         "bank": "car",
         "n": 1
     },
 
-    {
+{
         "url": "disaster/disaster_1.wav",
         "type": "audio",
         "bank": "disaster",
         "n": 0
     },
-      {
+{
         "url": "disaster/disaster_2.wav",
         "type": "audio",
         "bank": "disaster",
         "n": 1
     },
-      {
+{
         "url": "disaster/disaster_3.wav",
         "type": "audio",
         "bank": "disaster",
         "n": 2
     },
-      {
+{
         "url": "disaster/disaster_4.wav",
         "type": "audio",
         "bank": "disaster",
         "n": 3
     },
-      {
+{
         "url": "disaster/disaster_5.wav",
         "type": "audio",
         "bank": "disaster",
         "n": 4
     },
-      {
+{
         "url": "disaster/disaster_6.wav",
         "type": "audio",
         "bank": "disaster",
         "n": 5
     },
 
-    {
+{
+        "url": "forest/forest_1.wav",
+        "type": "audio",
+        "bank": "forest",
+        "n": 0
+    },
+{
+        "url": "forest/forest_2.wav",
+        "type": "audio",
+        "bank": "forest",
+        "n": 1
+    },
+{
+        "url": "forest/forest_3.wav",
+        "type": "audio",
+        "bank": "forest",
+        "n": 2
+    },
+
+{
         "url": "suburbia/suburbia_1.wav",
         "type": "audio",
         "bank": "suburbia",
         "n": 0
     },
-    {
+{
         "url": "suburbia/suburbia_2.wav",
         "type": "audio",
         "bank": "suburbia",
         "n": 1
     },
-    {
+{
         "url": "suburbia/suburbia_3.wav",
         "type": "audio",
         "bank": "suburbia",
         "n": 2
     }
-   
 ]
