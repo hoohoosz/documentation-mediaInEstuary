@@ -68,6 +68,19 @@
         "n": 2
     },
 
+ {
+        "url": "pavement/pavement1.wav",
+        "type": "audio",
+        "bank": "pavement",
+        "n": 0
+    },
+  {
+        "url": "pavement/pavement2.wav",
+        "type": "audio",
+        "bank": "pavement",
+        "n": 1
+    },
+
 {
         "url": "suburbia/suburbia_1.wav",
         "type": "audio",
@@ -85,5 +98,29 @@
         "type": "audio",
         "bank": "suburbia",
         "n": 2
+    },
+  {
+        "url": "trail/trail1.wav",
+        "type": "audio",
+        "bank": "trail",
+        "n": 0
+    },
+  {
+        "url": "trail/trail2.wav",
+        "type": "audio",
+        "bank": "trail",
+        "n": 1
+    },
+  {
+        "url": "trail/trail3.wav",
+        "type": "audio",
+        "bank": "trail",
+        "n": 2
+    },
+  {
+        "url": "trail/trail4.wav",
+        "type": "audio",
+        "bank": "trail",
+        "n": 3
     }
 ]
